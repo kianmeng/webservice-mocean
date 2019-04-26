@@ -10,7 +10,7 @@ use Types::Standard qw(Str InstanceOf);
 
 use WebService::Mocean::Client;
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 has api_key => (
     isa => Str,

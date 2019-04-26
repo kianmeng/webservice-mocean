@@ -96,14 +96,14 @@ Get the outbound SMS current status.
         'mocean-msgid' => 123456
     });
 
-# LICENSE AND COPYRIGHT
+# AUTHOR
+
+Kian Meng, Ang <kianmeng@cpan.org>
+
+# COPYRIGHT AND LICENSE
 
 This software is Copyright (c) 2018-2019 by Kian Meng, Ang.
 
 This is free software, licensed under:
 
     The Artistic License 2.0 (GPL Compatible)
-
-# AUTHOR
-
-Kian Meng, Ang <kianmeng@users.noreply.github.com>
